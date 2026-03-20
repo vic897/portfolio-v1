@@ -1,7 +1,3 @@
-Since this is the "2026 Edition" of your portfolio, your README should look as clean as the site itself. A great README tells a recruiter two things: **What you built** and **How you think.**
-
-Copy and paste this into your `README.md` file. I've tailored it to highlight your "Vibe Coding" workflow and your dual interest in Web and Android.
-
 -----
 
 ````markdown
@@ -87,12 +83,3 @@ While building this web presence, I am simultaneously exploring **AOSP and Kerne
 ```
 
 ---
-
-### Pro Tip for the "Vibe":
-After you paste this, open your **GitHub Repo settings** and add these "Topics" (Tags):
-`nextjs`, `tailwindcss`, `server-actions`, `web-development`, `android-development`, `vibe-coding`. 
-
-This helps people find your work in 2026's AI-driven search results!
-
-**Is the README live on your new repo? If so, you've officially finished the "Web Foundations" phase. Ready to pull that `build.prop` from the J5 Prime now?**
-```
